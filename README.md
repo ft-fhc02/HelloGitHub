@@ -11,3 +11,5 @@ testen...
 #### dies ist ein Commit von dem richtigen Account
 
 test push aus CMD
+
+test push aus Eclipse/Git
